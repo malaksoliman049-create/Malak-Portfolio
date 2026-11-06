@@ -257,7 +257,7 @@ header {
 }
 
 
-/* Responsive 1024px */
+/* Responsive */
 
 @media (max-width: 1024px) {
 
@@ -308,9 +308,6 @@ header {
     }
 
 }
-
-
-/* Responsive 768px */
 
 @media (max-width: 768px) {
 
@@ -392,9 +389,6 @@ header {
     }
 
 }
-
-
-/* Responsive 576px */
 
 @media (max-width: 576px) {
 
@@ -479,9 +473,6 @@ header {
     }
 
 }
-
-
-/* Responsive 480px */
 
 @media (max-width: 480px) {
 
